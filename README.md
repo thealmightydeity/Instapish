@@ -25,7 +25,7 @@ The captured credentials are stored in an Excel file (pdata.xlsx) in the root di
 
 # How to Execute the Demo
 
-Install Dependencies:
+*Install Dependencies:
 
 Ensure you have Node.js installed on your machine.
 
@@ -33,13 +33,13 @@ Clone this repository and navigate to the project directory.
 
 Install the required dependencies by running:
 
-npm install express body-parser xlsx
+    npm install express body-parser xlsx
 
 Start the Server:
 
 Run the server using the following command:
 
-node server.js
+    node server.js
 
 The server will start on http://localhost:3000
 
@@ -55,7 +55,7 @@ No Real Data: Do not use real credentials when testing this demo. Use dummy data
 
 Dependencies
 
-    Express.js: A web framework for Node.js used to create the server.
+    Express.js: A web framework for Node.js used to create the server.    node server.js
 
     body-parser: Middleware to parse incoming request bodies.
 
