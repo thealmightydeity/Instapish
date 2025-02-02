@@ -25,7 +25,7 @@ The captured credentials are stored in an Excel file (pdata.xlsx) in the root di
 
 # How to Execute the Demo
 
-*Install Dependencies:
+Install Dependencies:
 
 Ensure you have Node.js installed on your machine.
 
@@ -55,7 +55,7 @@ No Real Data: Do not use real credentials when testing this demo. Use dummy data
 
 Dependencies
 
-    Express.js: A web framework for Node.js used to create the server.    node server.js
+    Express.js: A web framework for Node.js used to create the server.
 
     body-parser: Middleware to parse incoming request bodies.
 
